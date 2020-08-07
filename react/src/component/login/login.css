@@ -1,0 +1,22 @@
+.login-form {
+  max-width: 100px;
+  margin: 200px auto 0;
+  display: table;
+  
+  }
+  .login-tag{
+  float: center;
+  margin-left: 80px;
+  font-size:30px
+  }
+  .login-div{
+  align-self: auto;
+  margin-top: 50px;
+  margin-left: 500px;
+  }
+  .login-form-forgot {
+  float: center;
+  }
+  .login-form-button {
+  width: 100%;
+  }

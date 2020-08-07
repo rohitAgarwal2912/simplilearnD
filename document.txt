@@ -1,0 +1,11 @@
+Document to start the Assingment
+
+1. Frontend is on react and the steps to run are
+
+>>> npm install
+>>> npm start
+
+2.Backend is on nodejs and mongodb and the steps to run are
+
+>> npm install
+>> node server.js
